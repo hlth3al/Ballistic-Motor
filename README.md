@@ -1,19 +1,8 @@
-# Ballistic-Motor
-# 🚀 Hydrogen Scramjet Real-time Dashboard
+# Ballistic-Motor Dashboard
 
-![Dashboard Preview](dashboard_preview.png) 
+This is the project documentation for the Scramjet Motor.
 
-## 📝 Project Overview
-This dashboard provides real-time telemetry visualization for Hydrogen Scramjet engines, focusing on combustion stability and thermal dynamics.
+![Dashboard Image](https://i.postimg.cc/3N6pGg7b/2025-02-13-16-09-53.jpg)
 
-## ✨ Key Features
-- **Real-time Data:** Live tracking of hydrogen flow rates.
-- **Performance Metrics:** Instant visualization of Scramjet thrust vs. altitude.
-- **Automated Alerts:** Visual indicators for thermal threshold breaches.
-
-## 🛠 Tech Stack
-- Streamlit / Python
-- [نام کتابخانه‌های دیگر مثل Plotly یا Pandas]
-
-## 🚀 How to Run
-(در اینجا بنویسید چطور پروژه را اجرا کنند)
+## Project Details
+در این پروژه بجای استفاده از سوختهای هیدروکربنی از هیدروژن در موتورهای اسکرم جت موشکهای بالستیک استفاده شده است و با روشهای پیشرفته مهندسی صنایع دست به تولید انبوه این نوع موتورها زده ایم!
